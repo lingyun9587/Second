@@ -1,0 +1,10 @@
+server:
+  port: 8080
+#  context-path: /itmayiedu
+#server.port=8888
+#server.context-path=/itmayiedu
+c3p0:
+ user: root
+ password: root
+ jdbcUrl: jdbc:mysql://192.168.114.1:3306/agentsystemdb?useUnicode=true&characterEncoding=utf-8
+ driverClass: com.mysql.jdbc.Driver
