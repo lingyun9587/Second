@@ -22,6 +22,7 @@
     <script src="../../resources/scripts/prototype/axQuery.std.js"></script>
     <script src="../../resources/scripts/prototype/doc.js"></script>
     <script src="../../data/document.js"></script>
+
     <script src="../../resources/scripts/messagecenter.js"></script>
     <script src="../../resources/scripts/prototype/events.js"></script>
     <script src="../../resources/scripts/prototype/action.js"></script>
